@@ -14,6 +14,7 @@ matplotlib = "^3.10.3"
 seaborn = "^0.13.2"
 jupyterlab = "^4.4.4"
 ipykernel = "^6.29.5"
+umap-learn = "^0.5.9.post2"
 
 
 [tool.poetry.group.dev.dependencies]
