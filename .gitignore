@@ -3,6 +3,7 @@
 poetry.lock
 
 # Данные и модели
+data/raw/
 data/raw/data/raw/
 data/processed/
 data/external/
