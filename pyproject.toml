@@ -22,6 +22,12 @@ imbalanced-learn = "^0.13.0"
 [tool.poetry.group.dev.dependencies]
 memory-profiler = "^0.61.0"
 
+
+[[tool.poetry.source]]
+name = "pytorch_cuda"
+url = "https://download.pytorch.org/whl/cu118"
+priority = "explicit"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
