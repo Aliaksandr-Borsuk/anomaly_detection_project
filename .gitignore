@@ -41,6 +41,7 @@ dist/
 *.cache
 *.DS_Store
 Thumbs.db
+catboost_info/
 
 # Тестовые отчеты
 .coverage
