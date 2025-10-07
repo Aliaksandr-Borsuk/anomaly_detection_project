@@ -14,6 +14,7 @@ saved_models/
 
 # личное
 private/
+scripts/
 
 # Jupyter
 .ipynb_checkpoints/
